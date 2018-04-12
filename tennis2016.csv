@@ -1,0 +1,509 @@
+,Tournament,Series,Surface,Round,Winner,Loser,WRank,LRank,Wsets,Lsets,counts
+0,Australian Open,Grand Slam,Hard,1st Round,Basic M.,Haase R.,138,65.0,3.0,0.0,1
+1,Australian Open,Grand Slam,Hard,1st Round,Goffin D.,Stakhovsky S.,16,60.0,3.0,1.0,10
+2,Australian Open,Grand Slam,Hard,2nd Round,Goffin D.,Dzumhur D.,16,81.0,3.0,1.0,10
+3,Australian Open,Grand Slam,Hard,3rd Round,Goffin D.,Thiem D.,16,20.0,3.0,1.0,10
+4,French Open,Grand Slam,Clay,1st Round,Goffin D.,Barrere G.,13,242.0,3.0,0.0,10
+5,French Open,Grand Slam,Clay,2nd Round,Goffin D.,Berlocq C.,13,126.0,3.0,0.0,10
+6,French Open,Grand Slam,Clay,3rd Round,Goffin D.,Almagro N.,13,49.0,3.0,2.0,10
+7,French Open,Grand Slam,Clay,4th Round,Goffin D.,Gulbis E.,13,80.0,3.0,1.0,10
+8,Wimbledon,Grand Slam,Grass,1st Round,Goffin D.,Ward A.,11,245.0,3.0,0.0,10
+9,Wimbledon,Grand Slam,Grass,2nd Round,Goffin D.,Roger-Vasselin E.,11,186.0,3.0,0.0,10
+10,Wimbledon,Grand Slam,Grass,3rd Round,Goffin D.,Istomin D.,11,116.0,3.0,1.0,10
+11,Australian Open,Grand Slam,Hard,1st Round,Dzumhur D.,Edmund K.,81,88.0,3.0,2.0,3
+12,Wimbledon,Grand Slam,Grass,1st Round,Dzumhur D.,Kudla D.,87,66.0,3.0,2.0,3
+13,US Open,Grand Slam,Hard,1st Round,Dzumhur D.,Tomic B.,72,19.0,3.0,1.0,3
+14,Australian Open,Grand Slam,Hard,1st Round,Brands D.,Estrella Burgos V.,151,55.0,3.0,1.0,1
+15,Australian Open,Grand Slam,Hard,1st Round,Nishikori K.,Kohlschreiber P.,7,34.0,3.0,0.0,15
+16,Australian Open,Grand Slam,Hard,2nd Round,Nishikori K.,Krajicek A.,7,103.0,3.0,0.0,15
+17,Australian Open,Grand Slam,Hard,3rd Round,Nishikori K.,Garcia-Lopez G.,7,27.0,3.0,1.0,15
+18,Australian Open,Grand Slam,Hard,4th Round,Nishikori K.,Tsonga J.W.,7,10.0,3.0,0.0,15
+19,French Open,Grand Slam,Clay,1st Round,Nishikori K.,Bolelli S.,6,115.0,3.0,0.0,15
+20,French Open,Grand Slam,Clay,2nd Round,Nishikori K.,Kuznetsov An.,6,40.0,3.0,0.0,15
+21,French Open,Grand Slam,Clay,3rd Round,Nishikori K.,Verdasco F.,6,52.0,3.0,2.0,15
+22,Wimbledon,Grand Slam,Grass,1st Round,Nishikori K.,Groth S.,6,124.0,3.0,0.0,15
+23,Wimbledon,Grand Slam,Grass,2nd Round,Nishikori K.,Benneteau J.,6,547.0,3.0,1.0,15
+24,Wimbledon,Grand Slam,Grass,3rd Round,Nishikori K.,Kuznetsov An.,6,42.0,3.0,0.0,15
+25,US Open,Grand Slam,Hard,1st Round,Nishikori K.,Becker B.,7,96.0,3.0,1.0,15
+26,US Open,Grand Slam,Hard,2nd Round,Nishikori K.,Khachanov K.,7,95.0,3.0,1.0,15
+27,US Open,Grand Slam,Hard,3rd Round,Nishikori K.,Mahut N.,7,42.0,3.0,1.0,15
+28,US Open,Grand Slam,Hard,4th Round,Nishikori K.,Karlovic I.,7,23.0,3.0,0.0,15
+29,US Open,Grand Slam,Hard,Quarterfinals,Nishikori K.,Murray A.,7,2.0,3.0,2.0,15
+30,Australian Open,Grand Slam,Hard,1st Round,Krajicek A.,Wu D.,103,243.0,3.0,0.0,1
+31,Australian Open,Grand Slam,Hard,1st Round,Thiem D.,Mayer L.,20,36.0,3.0,1.0,11
+32,Australian Open,Grand Slam,Hard,2nd Round,Thiem D.,Almagro N.,20,73.0,3.0,0.0,11
+33,French Open,Grand Slam,Clay,1st Round,Thiem D.,Cervantes I.,15,69.0,3.0,1.0,11
+34,French Open,Grand Slam,Clay,2nd Round,Thiem D.,Garcia-Lopez G.,15,51.0,3.0,0.0,11
+35,French Open,Grand Slam,Clay,3rd Round,Thiem D.,Zverev A.,15,41.0,3.0,1.0,11
+36,French Open,Grand Slam,Clay,4th Round,Thiem D.,Granollers M.,15,56.0,3.0,1.0,11
+37,French Open,Grand Slam,Clay,Quarterfinals,Thiem D.,Goffin D.,15,13.0,3.0,1.0,11
+38,Wimbledon,Grand Slam,Grass,1st Round,Thiem D.,Mayer F.,8,80.0,3.0,0.0,11
+39,US Open,Grand Slam,Hard,1st Round,Thiem D.,Millman J.,10,66.0,3.0,2.0,11
+40,US Open,Grand Slam,Hard,2nd Round,Thiem D.,Berankis R.,10,89.0,3.0,0.0,11
+41,US Open,Grand Slam,Hard,3rd Round,Thiem D.,Carreno Busta P.,10,39.0,3.0,1.0,11
+42,Australian Open,Grand Slam,Hard,1st Round,Delbonis F.,Karlovic I.,53,24.0,2.0,0.0,3
+43,Australian Open,Grand Slam,Hard,2nd Round,Delbonis F.,Olivo R.,53,174.0,3.0,2.0,3
+44,US Open,Grand Slam,Hard,1st Round,Delbonis F.,Baker B.,43,312.0,3.0,2.0,3
+45,Australian Open,Grand Slam,Hard,1st Round,Cilic M.,De Bakker T.,13,98.0,3.0,1.0,8
+46,Australian Open,Grand Slam,Hard,2nd Round,Cilic M.,Ramos-Vinolas A.,13,61.0,3.0,0.0,8
+47,Wimbledon,Grand Slam,Grass,1st Round,Cilic M.,Baker B.,13,589.0,3.0,0.0,8
+48,Wimbledon,Grand Slam,Grass,2nd Round,Cilic M.,Stakhovsky S.,13,94.0,3.0,1.0,8
+49,Wimbledon,Grand Slam,Grass,3rd Round,Cilic M.,Lacko L.,13,123.0,3.0,0.0,8
+50,Wimbledon,Grand Slam,Grass,4th Round,Cilic M.,Nishikori K.,13,6.0,1.0,0.0,8
+51,US Open,Grand Slam,Hard,1st Round,Cilic M.,Dutra Silva R.,9,427.0,3.0,0.0,8
+52,US Open,Grand Slam,Hard,2nd Round,Cilic M.,Stakhovsky S.,9,92.0,3.0,0.0,8
+53,Australian Open,Grand Slam,Hard,1st Round,Donskoy E.,Cervantes I.,91,72.0,3.0,1.0,1
+54,Australian Open,Grand Slam,Hard,1st Round,Berdych T.,Bhambri Y.,6,96.0,3.0,0.0,13
+55,Australian Open,Grand Slam,Hard,2nd Round,Berdych T.,Basic M.,6,138.0,3.0,0.0,13
+56,Australian Open,Grand Slam,Hard,3rd Round,Berdych T.,Kyrgios N.,6,30.0,3.0,1.0,13
+57,Australian Open,Grand Slam,Hard,4th Round,Berdych T.,Bautista R.,6,21.0,3.0,2.0,13
+58,French Open,Grand Slam,Clay,1st Round,Berdych T.,Pospisil V.,8,46.0,3.0,0.0,13
+59,French Open,Grand Slam,Clay,2nd Round,Berdych T.,Jaziri M.,8,72.0,3.0,1.0,13
+60,French Open,Grand Slam,Clay,3rd Round,Berdych T.,Cuevas P.,8,27.0,3.0,1.0,13
+61,French Open,Grand Slam,Clay,4th Round,Berdych T.,Ferrer D.,8,11.0,3.0,0.0,13
+62,Wimbledon,Grand Slam,Grass,1st Round,Berdych T.,Dodig I.,9,74.0,3.0,1.0,13
+63,Wimbledon,Grand Slam,Grass,2nd Round,Berdych T.,Becker B.,9,102.0,3.0,0.0,13
+64,Wimbledon,Grand Slam,Grass,3rd Round,Berdych T.,Zverev A.,9,28.0,3.0,1.0,13
+65,Wimbledon,Grand Slam,Grass,4th Round,Berdych T.,Vesely J.,9,64.0,3.0,2.0,13
+66,Wimbledon,Grand Slam,Grass,Quarterfinals,Berdych T.,Pouille L.,9,30.0,3.0,0.0,13
+67,Australian Open,Grand Slam,Hard,1st Round,Herbert P.H.,Andujar P.,167,62.0,3.0,1.0,4
+68,Australian Open,Grand Slam,Hard,2nd Round,Herbert P.H.,Rubin N.,167,328.0,3.0,0.0,4
+69,Wimbledon,Grand Slam,Grass,1st Round,Herbert P.H.,Kohlschreiber P.,81,22.0,3.0,1.0,4
+70,Wimbledon,Grand Slam,Grass,2nd Round,Herbert P.H.,Dzumhur D.,81,87.0,3.0,1.0,4
+71,Australian Open,Grand Slam,Hard,1st Round,Almagro N.,Benneteau J.,73,696.0,3.0,1.0,6
+72,French Open,Grand Slam,Clay,1st Round,Almagro N.,Kohlschreiber P.,49,26.0,3.0,1.0,6
+73,French Open,Grand Slam,Clay,2nd Round,Almagro N.,Vesely J.,49,60.0,3.0,0.0,6
+74,Wimbledon,Grand Slam,Grass,1st Round,Almagro N.,Dutra Silva R.,47,386.0,3.0,2.0,6
+75,US Open,Grand Slam,Hard,1st Round,Almagro N.,Fucsovics M.,48,155.0,3.0,0.0,6
+76,US Open,Grand Slam,Hard,2nd Round,Almagro N.,Cuevas P.,48,20.0,3.0,0.0,6
+77,Australian Open,Grand Slam,Hard,1st Round,Garcia-Lopez G.,Mathieu P.H.,27,97.0,3.0,0.0,3
+78,Australian Open,Grand Slam,Hard,2nd Round,Garcia-Lopez G.,Brands D.,27,151.0,3.0,1.0,3
+79,French Open,Grand Slam,Clay,1st Round,Garcia-Lopez G.,De Bakker T.,51,120.0,3.0,1.0,3
+80,Australian Open,Grand Slam,Hard,1st Round,Simon G.,Pospisil V.,15,39.0,3.0,1.0,7
+81,Australian Open,Grand Slam,Hard,2nd Round,Simon G.,Donskoy E.,15,91.0,3.0,2.0,7
+82,Australian Open,Grand Slam,Hard,3rd Round,Simon G.,Delbonis F.,15,53.0,3.0,0.0,7
+83,French Open,Grand Slam,Clay,1st Round,Simon G.,Dutra Silva R.,18,463.0,3.0,0.0,7
+84,French Open,Grand Slam,Clay,2nd Round,Simon G.,Pella G.,18,48.0,3.0,2.0,7
+85,Wimbledon,Grand Slam,Grass,1st Round,Simon G.,Tipsarevic J.,20,411.0,3.0,1.0,7
+86,US Open,Grand Slam,Hard,1st Round,Simon G.,Stepanek R.,31,113.0,3.0,0.0,7
+87,Australian Open,Grand Slam,Hard,1st Round,Ramos-Vinolas A.,Coric B.,61,40.0,3.0,0.0,8
+88,French Open,Grand Slam,Clay,1st Round,Ramos-Vinolas A.,Zeballos H.,55,89.0,3.0,1.0,8
+89,French Open,Grand Slam,Clay,2nd Round,Ramos-Vinolas A.,Trungelliti M.,55,166.0,3.0,0.0,8
+90,French Open,Grand Slam,Clay,3rd Round,Ramos-Vinolas A.,Sock J.,55,25.0,3.0,2.0,8
+91,French Open,Grand Slam,Clay,4th Round,Ramos-Vinolas A.,Raonic M.,55,9.0,3.0,0.0,8
+92,Wimbledon,Grand Slam,Grass,1st Round,Ramos-Vinolas A.,Pospisil V.,36,44.0,3.0,1.0,8
+93,Wimbledon,Grand Slam,Grass,2nd Round,Ramos-Vinolas A.,Troicki V.,36,27.0,3.0,2.0,8
+94,US Open,Grand Slam,Hard,1st Round,Ramos-Vinolas A.,Benneteau J.,33,248.0,3.0,2.0,8
+95,Australian Open,Grand Slam,Hard,1st Round,Olivo R.,Vesely J.,174,50.0,3.0,2.0,1
+96,Australian Open,Grand Slam,Hard,1st Round,Djokovic N.,Chung H.,1,52.0,3.0,0.0,22
+97,Australian Open,Grand Slam,Hard,2nd Round,Djokovic N.,Halys Q.,1,187.0,3.0,0.0,22
+98,Australian Open,Grand Slam,Hard,3rd Round,Djokovic N.,Seppi A.,1,29.0,3.0,0.0,22
+99,Australian Open,Grand Slam,Hard,4th Round,Djokovic N.,Simon G.,1,15.0,3.0,2.0,22
+100,Australian Open,Grand Slam,Hard,Quarterfinals,Djokovic N.,Nishikori K.,1,7.0,3.0,0.0,22
+101,Australian Open,Grand Slam,Hard,Semifinals,Djokovic N.,Federer R.,1,3.0,3.0,1.0,22
+102,Australian Open,Grand Slam,Hard,The Final,Djokovic N.,Murray A.,1,2.0,3.0,0.0,22
+103,French Open,Grand Slam,Clay,1st Round,Djokovic N.,Lu Y.H.,1,95.0,3.0,0.0,22
+104,French Open,Grand Slam,Clay,2nd Round,Djokovic N.,Darcis S.,1,161.0,3.0,0.0,22
+105,French Open,Grand Slam,Clay,3rd Round,Djokovic N.,Bedene A.,1,66.0,3.0,0.0,22
+106,French Open,Grand Slam,Clay,4th Round,Djokovic N.,Bautista Agut R.,1,16.0,3.0,1.0,22
+107,French Open,Grand Slam,Clay,Quarterfinals,Djokovic N.,Berdych T.,1,8.0,3.0,0.0,22
+108,French Open,Grand Slam,Clay,Semifinals,Djokovic N.,Thiem D.,1,15.0,3.0,0.0,22
+109,French Open,Grand Slam,Clay,The Final,Djokovic N.,Murray A.,1,2.0,3.0,1.0,22
+110,Wimbledon,Grand Slam,Grass,1st Round,Djokovic N.,Ward J.,1,177.0,3.0,0.0,22
+111,Wimbledon,Grand Slam,Grass,2nd Round,Djokovic N.,Mannarino A.,1,55.0,3.0,0.0,22
+112,US Open,Grand Slam,Hard,1st Round,Djokovic N.,Janowicz J.,1,247.0,3.0,1.0,22
+113,US Open,Grand Slam,Hard,2nd Round,Djokovic N.,Vesely J.,1,49.0,,,22
+114,US Open,Grand Slam,Hard,3rd Round,Djokovic N.,Youzhny M.,1,61.0,0.0,0.0,22
+115,US Open,Grand Slam,Hard,4th Round,Djokovic N.,Edmund K.,1,84.0,3.0,0.0,22
+116,US Open,Grand Slam,Hard,Quarterfinals,Djokovic N.,Tsonga J.W.,1,11.0,2.0,0.0,22
+117,US Open,Grand Slam,Hard,Semifinals,Djokovic N.,Monfils G.,1,12.0,3.0,1.0,22
+118,Australian Open,Grand Slam,Hard,1st Round,Kudla D.,Krajinovic F.,69,102.0,2.0,0.0,1
+119,Australian Open,Grand Slam,Hard,1st Round,Dolgopolov O.,Berankis R.,35,85.0,3.0,1.0,2
+120,Wimbledon,Grand Slam,Grass,1st Round,Dolgopolov O.,Donskoy E.,33,78.0,3.0,1.0,2
+121,Australian Open,Grand Slam,Hard,1st Round,Lajovic D.,Querrey S.,77,58.0,2.0,2.0,2
+122,French Open,Grand Slam,Clay,1st Round,Lajovic D.,Kudla D.,81,53.0,3.0,0.0,2
+123,Australian Open,Grand Slam,Hard,1st Round,Cuevas P.,Nishioka Y.,41,117.0,3.0,0.0,4
+124,French Open,Grand Slam,Clay,1st Round,Cuevas P.,Kamke T.,27,155.0,3.0,1.0,4
+125,French Open,Grand Slam,Clay,2nd Round,Cuevas P.,Halys Q.,27,154.0,3.0,0.0,4
+126,US Open,Grand Slam,Hard,1st Round,Cuevas P.,Sela D.,20,80.0,3.0,2.0,4
+127,Australian Open,Grand Slam,Hard,1st Round,Rubin N.,Paire B.,328,18.0,3.0,0.0,1
+128,Australian Open,Grand Slam,Hard,1st Round,Halys Q.,Dodig I.,187,78.0,3.0,1.0,2
+129,French Open,Grand Slam,Clay,1st Round,Halys Q.,Chung H.,154,111.0,3.0,0.0,2
+130,Australian Open,Grand Slam,Hard,1st Round,Jasika O.,Marchenko I.,310,76.0,3.0,1.0,1
+131,Australian Open,Grand Slam,Hard,1st Round,Dimitrov G.,Lorenzi P.,28,57.0,3.0,0.0,7
+132,Australian Open,Grand Slam,Hard,2nd Round,Dimitrov G.,Trungelliti M.,28,210.0,3.0,1.0,7
+133,Wimbledon,Grand Slam,Grass,1st Round,Dimitrov G.,Fratangelo B.,37,112.0,3.0,0.0,7
+134,Wimbledon,Grand Slam,Grass,2nd Round,Dimitrov G.,Simon G.,37,20.0,3.0,1.0,7
+135,US Open,Grand Slam,Hard,1st Round,Dimitrov G.,Cervantes I.,24,75.0,3.0,0.0,7
+136,US Open,Grand Slam,Hard,2nd Round,Dimitrov G.,Chardy J.,24,55.0,3.0,2.0,7
+137,US Open,Grand Slam,Hard,3rd Round,Dimitrov G.,Sousa J.,24,36.0,3.0,1.0,7
+138,Australian Open,Grand Slam,Hard,1st Round,Seppi A.,Gabashvili T.,29,44.0,3.0,1.0,4
+139,Australian Open,Grand Slam,Hard,2nd Round,Seppi A.,Kudla D.,29,69.0,3.0,0.0,4
+140,Wimbledon,Grand Slam,Grass,1st Round,Seppi A.,Garcia-Lopez G.,45,58.0,3.0,0.0,4
+141,US Open,Grand Slam,Hard,1st Round,Seppi A.,Robert S.,87,52.0,3.0,1.0,4
+142,Australian Open,Grand Slam,Hard,1st Round,Trungelliti M.,Kovalik J.,210,251.0,3.0,0.0,2
+143,French Open,Grand Slam,Clay,1st Round,Trungelliti M.,Cilic M.,166,10.0,3.0,1.0,2
+144,Australian Open,Grand Slam,Hard,1st Round,Federer R.,Basilashvili N.,3,118.0,3.0,0.0,10
+145,Australian Open,Grand Slam,Hard,2nd Round,Federer R.,Dolgopolov O.,3,35.0,3.0,0.0,10
+146,Australian Open,Grand Slam,Hard,3rd Round,Federer R.,Dimitrov G.,3,28.0,3.0,1.0,10
+147,Australian Open,Grand Slam,Hard,4th Round,Federer R.,Goffin D.,3,16.0,3.0,0.0,10
+148,Australian Open,Grand Slam,Hard,Quarterfinals,Federer R.,Berdych T.,3,6.0,3.0,0.0,10
+149,Wimbledon,Grand Slam,Grass,1st Round,Federer R.,Pella G.,3,52.0,3.0,0.0,10
+150,Wimbledon,Grand Slam,Grass,2nd Round,Federer R.,Willis M.,3,772.0,3.0,0.0,10
+151,Wimbledon,Grand Slam,Grass,3rd Round,Federer R.,Evans D.,3,91.0,3.0,0.0,10
+152,Wimbledon,Grand Slam,Grass,4th Round,Federer R.,Johnson S.,3,29.0,3.0,0.0,10
+153,Wimbledon,Grand Slam,Grass,Quarterfinals,Federer R.,Cilic M.,3,13.0,3.0,2.0,10
+154,Australian Open,Grand Slam,Hard,1st Round,Kyrgios N.,Carreno-Busta P.,30,68.0,3.0,0.0,9
+155,Australian Open,Grand Slam,Hard,2nd Round,Kyrgios N.,Cuevas P.,30,41.0,3.0,0.0,9
+156,French Open,Grand Slam,Clay,1st Round,Kyrgios N.,Cecchinato M.,19,124.0,3.0,0.0,9
+157,French Open,Grand Slam,Clay,2nd Round,Kyrgios N.,Sijsling I.,19,123.0,3.0,0.0,9
+158,Wimbledon,Grand Slam,Grass,1st Round,Kyrgios N.,Stepanek R.,18,121.0,3.0,1.0,9
+159,Wimbledon,Grand Slam,Grass,2nd Round,Kyrgios N.,Brown D.,18,85.0,3.0,2.0,9
+160,Wimbledon,Grand Slam,Grass,3rd Round,Kyrgios N.,Lopez F.,18,21.0,3.0,1.0,9
+161,US Open,Grand Slam,Hard,1st Round,Kyrgios N.,Bedene A.,16,77.0,3.0,0.0,9
+162,US Open,Grand Slam,Hard,2nd Round,Kyrgios N.,Zeballos H.,16,71.0,3.0,0.0,9
+163,Australian Open,Grand Slam,Hard,1st Round,Bautista R.,Klizan M.,21,43.0,3.0,2.0,3
+164,Australian Open,Grand Slam,Hard,2nd Round,Bautista R.,Lajovic D.,21,77.0,3.0,2.0,3
+165,Australian Open,Grand Slam,Hard,3rd Round,Bautista R.,Cilic M.,21,13.0,3.0,0.0,3
+166,Australian Open,Grand Slam,Hard,1st Round,Tsonga J.W.,Baghdatis M.,10,46.0,3.0,1.0,13
+167,Australian Open,Grand Slam,Hard,2nd Round,Tsonga J.W.,Jasika O.,10,310.0,3.0,0.0,13
+168,Australian Open,Grand Slam,Hard,3rd Round,Tsonga J.W.,Herbert P.H.,10,167.0,3.0,0.0,13
+169,French Open,Grand Slam,Clay,1st Round,Tsonga J.W.,Struff J.L.,7,101.0,3.0,0.0,13
+170,French Open,Grand Slam,Clay,2nd Round,Tsonga J.W.,Baghdatis M.,7,39.0,3.0,2.0,13
+171,Wimbledon,Grand Slam,Grass,1st Round,Tsonga J.W.,Cervantes I.,12,75.0,3.0,0.0,13
+172,Wimbledon,Grand Slam,Grass,2nd Round,Tsonga J.W.,Monaco J.,12,97.0,3.0,0.0,13
+173,Wimbledon,Grand Slam,Grass,3rd Round,Tsonga J.W.,Isner J.,12,17.0,3.0,2.0,13
+174,Wimbledon,Grand Slam,Grass,4th Round,Tsonga J.W.,Gasquet R.,12,10.0,0.0,0.0,13
+175,US Open,Grand Slam,Hard,1st Round,Tsonga J.W.,Andreozzi G.,11,133.0,3.0,0.0,13
+176,US Open,Grand Slam,Hard,2nd Round,Tsonga J.W.,Duckworth J.,11,195.0,3.0,1.0,13
+177,US Open,Grand Slam,Hard,3rd Round,Tsonga J.W.,Anderson K.,11,35.0,3.0,0.0,13
+178,US Open,Grand Slam,Hard,4th Round,Tsonga J.W.,Sock J.,11,27.0,3.0,1.0,13
+179,Australian Open,Grand Slam,Hard,1st Round,Kuznetsov An.,Harrison R.,74,134.0,3.0,0.0,8
+180,Australian Open,Grand Slam,Hard,2nd Round,Kuznetsov An.,Chardy J.,74,31.0,3.0,0.0,8
+181,Australian Open,Grand Slam,Hard,3rd Round,Kuznetsov An.,Sela D.,74,87.0,3.0,1.0,8
+182,French Open,Grand Slam,Clay,1st Round,Kuznetsov An.,Becker B.,40,96.0,3.0,0.0,8
+183,Wimbledon,Grand Slam,Grass,1st Round,Kuznetsov An.,Cuevas P.,42,24.0,3.0,2.0,8
+184,Wimbledon,Grand Slam,Grass,2nd Round,Kuznetsov An.,Muller G.,42,39.0,3.0,0.0,8
+185,US Open,Grand Slam,Hard,1st Round,Kuznetsov An.,Bellucci T.,47,65.0,3.0,1.0,8
+186,US Open,Grand Slam,Hard,2nd Round,Kuznetsov An.,Ramos-Vinolas A.,47,33.0,3.0,0.0,8
+187,Australian Open,Grand Slam,Hard,1st Round,Groth S.,Mannarino A.,67,48.0,3.0,1.0,1
+188,Australian Open,Grand Slam,Hard,1st Round,Millman J.,Schwartzman D.,95,89.0,1.0,2.0,4
+189,Australian Open,Grand Slam,Hard,2nd Round,Millman J.,Muller G.,95,38.0,3.0,2.0,4
+190,Wimbledon,Grand Slam,Grass,1st Round,Millman J.,Montanes A.,67,120.0,3.0,2.0,4
+191,Wimbledon,Grand Slam,Grass,2nd Round,Millman J.,Paire B.,67,23.0,3.0,1.0,4
+192,Australian Open,Grand Slam,Hard,1st Round,Raonic M.,Pouille L.,14,90.0,3.0,0.0,15
+193,Australian Open,Grand Slam,Hard,2nd Round,Raonic M.,Robredo T.,14,42.0,3.0,0.0,15
+194,Australian Open,Grand Slam,Hard,3rd Round,Raonic M.,Troicki V.,14,26.0,3.0,0.0,15
+195,Australian Open,Grand Slam,Hard,4th Round,Raonic M.,Wawrinka S.,14,4.0,3.0,2.0,15
+196,Australian Open,Grand Slam,Hard,Quarterfinals,Raonic M.,Monfils G.,14,25.0,3.0,1.0,15
+197,French Open,Grand Slam,Clay,1st Round,Raonic M.,Tipsarevic J.,9,680.0,3.0,0.0,15
+198,French Open,Grand Slam,Clay,2nd Round,Raonic M.,Mannarino A.,9,58.0,3.0,0.0,15
+199,French Open,Grand Slam,Clay,3rd Round,Raonic M.,Martin A.,9,133.0,3.0,0.0,15
+200,Wimbledon,Grand Slam,Grass,1st Round,Raonic M.,Carreno Busta P.,7,46.0,3.0,0.0,15
+201,Wimbledon,Grand Slam,Grass,2nd Round,Raonic M.,Seppi A.,7,45.0,3.0,0.0,15
+202,Wimbledon,Grand Slam,Grass,3rd Round,Raonic M.,Sock J.,7,26.0,3.0,0.0,15
+203,Wimbledon,Grand Slam,Grass,4th Round,Raonic M.,Goffin D.,7,11.0,3.0,2.0,15
+204,Wimbledon,Grand Slam,Grass,Quarterfinals,Raonic M.,Querrey S.,7,41.0,3.0,1.0,15
+205,Wimbledon,Grand Slam,Grass,Semifinals,Raonic M.,Federer R.,7,3.0,3.0,2.0,15
+206,US Open,Grand Slam,Hard,1st Round,Raonic M.,Brown D.,6,86.0,3.0,0.0,15
+207,Australian Open,Grand Slam,Hard,1st Round,Robert S.,Fratangelo B.,225,132.0,3.0,0.0,3
+208,Australian Open,Grand Slam,Hard,2nd Round,Robert S.,Ram R.,225,93.0,3.0,2.0,3
+209,French Open,Grand Slam,Clay,1st Round,Robert S.,Anderson K.,90,20.0,3.0,1.0,3
+210,Australian Open,Grand Slam,Hard,1st Round,Chardy J.,Gulbis E.,31,79.0,3.0,2.0,5
+211,French Open,Grand Slam,Clay,1st Round,Chardy J.,Mayer L.,32,68.0,3.0,1.0,5
+212,French Open,Grand Slam,Clay,2nd Round,Chardy J.,Pavlasek A.,32,132.0,3.0,0.0,5
+213,Wimbledon,Grand Slam,Grass,1st Round,Chardy J.,Monfils G.,34,16.0,3.0,2.0,5
+214,US Open,Grand Slam,Hard,1st Round,Chardy J.,Mmoh M.,55,384.0,3.0,0.0,5
+215,Australian Open,Grand Slam,Hard,1st Round,Muller G.,Fognini F.,38,23.0,3.0,1.0,2
+216,Wimbledon,Grand Slam,Grass,1st Round,Muller G.,Giraldo S.,39,129.0,3.0,2.0,2
+217,Australian Open,Grand Slam,Hard,1st Round,Sousa J.,Kukushkin M.,33,94.0,3.0,0.0,7
+218,Australian Open,Grand Slam,Hard,2nd Round,Sousa J.,Giraldo S.,33,70.0,3.0,1.0,7
+219,French Open,Grand Slam,Clay,1st Round,Sousa J.,Dzumhur D.,29,73.0,3.0,1.0,7
+220,Wimbledon,Grand Slam,Grass,1st Round,Sousa J.,Tursunov D.,31,453.0,3.0,2.0,7
+221,Wimbledon,Grand Slam,Grass,2nd Round,Sousa J.,Novikov D.,31,145.0,3.0,1.0,7
+222,US Open,Grand Slam,Hard,1st Round,Sousa J.,Estrella Burgos V.,36,83.0,3.0,0.0,7
+223,US Open,Grand Slam,Hard,2nd Round,Sousa J.,Lopez F.,36,18.0,3.0,1.0,7
+224,Australian Open,Grand Slam,Hard,1st Round,Ram R.,Anderson K.,93,12.0,2.0,1.0,1
+225,Australian Open,Grand Slam,Hard,1st Round,Granollers M.,Ebden M.,80,106.0,3.0,1.0,6
+226,French Open,Grand Slam,Clay,1st Round,Granollers M.,Fognini F.,56,33.0,3.0,0.0,6
+227,French Open,Grand Slam,Clay,2nd Round,Granollers M.,Mahut N.,56,44.0,2.0,0.0,6
+228,French Open,Grand Slam,Clay,3rd Round,Granollers M.,Nadal R.,56,5.0,,,6
+229,Wimbledon,Grand Slam,Grass,1st Round,Granollers M.,Estrella Burgos V.,340,77.0,3.0,1.0,6
+230,US Open,Grand Slam,Hard,1st Round,Granollers M.,Monaco J.,45,94.0,3.0,0.0,6
+231,Australian Open,Grand Slam,Hard,1st Round,Murray A.,Zverev A.,2,83.0,3.0,0.0,23
+232,Australian Open,Grand Slam,Hard,2nd Round,Murray A.,Groth S.,2,67.0,3.0,0.0,23
+233,Australian Open,Grand Slam,Hard,3rd Round,Murray A.,Sousa J.,2,33.0,3.0,1.0,23
+234,Australian Open,Grand Slam,Hard,4th Round,Murray A.,Tomic B.,2,17.0,3.0,0.0,23
+235,Australian Open,Grand Slam,Hard,Quarterfinals,Murray A.,Ferrer D.,2,8.0,3.0,1.0,23
+236,Australian Open,Grand Slam,Hard,Semifinals,Murray A.,Raonic M.,2,14.0,3.0,2.0,23
+237,French Open,Grand Slam,Clay,1st Round,Murray A.,Stepanek R.,2,128.0,3.0,2.0,23
+238,French Open,Grand Slam,Clay,2nd Round,Murray A.,Bourgue M.,2,164.0,3.0,2.0,23
+239,French Open,Grand Slam,Clay,3rd Round,Murray A.,Karlovic I.,2,28.0,3.0,0.0,23
+240,French Open,Grand Slam,Clay,4th Round,Murray A.,Isner J.,2,17.0,3.0,0.0,23
+241,French Open,Grand Slam,Clay,Quarterfinals,Murray A.,Gasquet R.,2,12.0,3.0,1.0,23
+242,French Open,Grand Slam,Clay,Semifinals,Murray A.,Wawrinka S.,2,4.0,3.0,1.0,23
+243,Wimbledon,Grand Slam,Grass,1st Round,Murray A.,Broady L.,2,235.0,3.0,0.0,23
+244,Wimbledon,Grand Slam,Grass,2nd Round,Murray A.,Lu Y.H.,2,76.0,3.0,0.0,23
+245,Wimbledon,Grand Slam,Grass,3rd Round,Murray A.,Millman J.,2,67.0,3.0,0.0,23
+246,Wimbledon,Grand Slam,Grass,4th Round,Murray A.,Kyrgios N.,2,18.0,3.0,0.0,23
+247,Wimbledon,Grand Slam,Grass,Quarterfinals,Murray A.,Tsonga J.W.,2,12.0,3.0,2.0,23
+248,Wimbledon,Grand Slam,Grass,Semifinals,Murray A.,Berdych T.,2,9.0,3.0,0.0,23
+249,Wimbledon,Grand Slam,Grass,The Final,Murray A.,Raonic M.,2,7.0,3.0,0.0,23
+250,US Open,Grand Slam,Hard,1st Round,Murray A.,Rosol L.,2,81.0,3.0,0.0,23
+251,US Open,Grand Slam,Hard,2nd Round,Murray A.,Granollers M.,2,45.0,3.0,0.0,23
+252,US Open,Grand Slam,Hard,3rd Round,Murray A.,Lorenzi P.,2,40.0,3.0,1.0,23
+253,US Open,Grand Slam,Hard,4th Round,Murray A.,Dimitrov G.,2,24.0,3.0,0.0,23
+254,Australian Open,Grand Slam,Hard,1st Round,Lopez F.,Evans D.,19,185.0,3.0,0.0,7
+255,Australian Open,Grand Slam,Hard,2nd Round,Lopez F.,Pella G.,19,75.0,3.0,2.0,7
+256,French Open,Grand Slam,Clay,1st Round,Lopez F.,Fabbiano T.,23,117.0,3.0,1.0,7
+257,French Open,Grand Slam,Clay,2nd Round,Lopez F.,Estrella Burgos V.,23,87.0,3.0,0.0,7
+258,Wimbledon,Grand Slam,Grass,1st Round,Lopez F.,Ram R.,21,72.0,3.0,0.0,7
+259,Wimbledon,Grand Slam,Grass,2nd Round,Lopez F.,Fognini F.,21,35.0,3.0,2.0,7
+260,US Open,Grand Slam,Hard,1st Round,Lopez F.,Coric B.,18,41.0,0.0,0.0,7
+261,Australian Open,Grand Slam,Hard,1st Round,Pella G.,Darcis S.,75,110.0,3.0,2.0,3
+262,French Open,Grand Slam,Clay,1st Round,Pella G.,Schwartzman D.,48,63.0,3.0,1.0,3
+263,US Open,Grand Slam,Hard,1st Round,Pella G.,Fratangelo B.,51,115.0,3.0,0.0,3
+264,Australian Open,Grand Slam,Hard,1st Round,Robredo T.,Jaziri M.,42,104.0,3.0,2.0,1
+265,Australian Open,Grand Slam,Hard,1st Round,Giraldo S.,Young D.,70,47.0,3.0,1.0,1
+266,Australian Open,Grand Slam,Hard,1st Round,Verdasco F.,Nadal R.,45,5.0,3.0,2.0,3
+267,French Open,Grand Slam,Clay,1st Round,Verdasco F.,Johnson S.,52,34.0,3.0,0.0,3
+268,French Open,Grand Slam,Clay,2nd Round,Verdasco F.,Dodig I.,52,77.0,3.0,0.0,3
+269,Australian Open,Grand Slam,Hard,1st Round,Isner J.,Janowicz J.,11,56.0,3.0,0.0,10
+270,Australian Open,Grand Slam,Hard,2nd Round,Isner J.,Granollers M.,11,80.0,3.0,0.0,10
+271,Australian Open,Grand Slam,Hard,3rd Round,Isner J.,Lopez F.,11,19.0,3.0,1.0,10
+272,French Open,Grand Slam,Clay,1st Round,Isner J.,Millman J.,17,61.0,3.0,1.0,10
+273,French Open,Grand Slam,Clay,2nd Round,Isner J.,Edmund K.,17,82.0,3.0,0.0,10
+274,French Open,Grand Slam,Clay,3rd Round,Isner J.,Gabashvili T.,17,79.0,3.0,2.0,10
+275,Wimbledon,Grand Slam,Grass,1st Round,Isner J.,Baghdatis M.,17,40.0,3.0,0.0,10
+276,Wimbledon,Grand Slam,Grass,2nd Round,Isner J.,Barton M.,17,248.0,3.0,0.0,10
+277,US Open,Grand Slam,Hard,1st Round,Isner J.,Tiafoe F.,21,125.0,3.0,2.0,10
+278,US Open,Grand Slam,Hard,2nd Round,Isner J.,Darcis S.,21,106.0,3.0,1.0,10
+279,Australian Open,Grand Slam,Hard,1st Round,Sela D.,Becker B.,87,101.0,3.0,1.0,2
+280,Australian Open,Grand Slam,Hard,2nd Round,Sela D.,Verdasco F.,87,45.0,3.0,1.0,2
+281,Australian Open,Grand Slam,Hard,1st Round,Johnson S.,Bedene A.,32,49.0,3.0,0.0,6
+282,Australian Open,Grand Slam,Hard,2nd Round,Johnson S.,Bellucci T.,32,37.0,3.0,0.0,6
+283,Wimbledon,Grand Slam,Grass,1st Round,Johnson S.,Jaziri M.,29,60.0,3.0,0.0,6
+284,Wimbledon,Grand Slam,Grass,2nd Round,Johnson S.,Chardy J.,29,34.0,3.0,0.0,6
+285,Wimbledon,Grand Slam,Grass,3rd Round,Johnson S.,Dimitrov G.,29,37.0,3.0,1.0,6
+286,US Open,Grand Slam,Hard,1st Round,Johnson S.,Donskoy E.,22,79.0,3.0,2.0,6
+287,Australian Open,Grand Slam,Hard,1st Round,Smyczek T.,Gimeno-Traver D.,108,100.0,3.0,1.0,1
+288,Australian Open,Grand Slam,Hard,1st Round,Bellucci T.,Thompson J.,37,143.0,3.0,0.0,2
+289,Wimbledon,Grand Slam,Grass,1st Round,Bellucci T.,Bemelmans R.,62,193.0,3.0,2.0,2
+290,Australian Open,Grand Slam,Hard,1st Round,Monfils G.,Sugita Y.,25,124.0,3.0,0.0,9
+291,Australian Open,Grand Slam,Hard,2nd Round,Monfils G.,Mahut N.,25,63.0,3.0,0.0,9
+292,Australian Open,Grand Slam,Hard,3rd Round,Monfils G.,Robert S.,25,225.0,3.0,0.0,9
+293,Australian Open,Grand Slam,Hard,4th Round,Monfils G.,Kuznetsov An.,25,74.0,3.0,1.0,9
+294,US Open,Grand Slam,Hard,1st Round,Monfils G.,Muller G.,12,37.0,3.0,0.0,9
+295,US Open,Grand Slam,Hard,2nd Round,Monfils G.,Satral J.,12,226.0,3.0,0.0,9
+296,US Open,Grand Slam,Hard,3rd Round,Monfils G.,Almagro N.,12,48.0,3.0,0.0,9
+297,US Open,Grand Slam,Hard,4th Round,Monfils G.,Baghdatis M.,12,44.0,3.0,0.0,9
+298,US Open,Grand Slam,Hard,Quarterfinals,Monfils G.,Pouille L.,12,25.0,3.0,0.0,9
+299,Australian Open,Grand Slam,Hard,1st Round,Mahut N.,Cecchinato M.,63,92.0,3.0,1.0,7
+300,French Open,Grand Slam,Clay,1st Round,Mahut N.,Berankis R.,44,50.0,3.0,0.0,7
+301,Wimbledon,Grand Slam,Grass,1st Round,Mahut N.,Klein B.,51,260.0,3.0,0.0,7
+302,Wimbledon,Grand Slam,Grass,2nd Round,Mahut N.,Ferrer D.,51,14.0,3.0,0.0,7
+303,Wimbledon,Grand Slam,Grass,3rd Round,Mahut N.,Herbert P.H.,51,81.0,3.0,1.0,7
+304,US Open,Grand Slam,Hard,1st Round,Mahut N.,Kohlschreiber P.,42,26.0,2.0,0.0,7
+305,US Open,Grand Slam,Hard,2nd Round,Mahut N.,Mathieu P.H.,42,70.0,3.0,0.0,7
+306,Australian Open,Grand Slam,Hard,1st Round,Bolelli S.,Baker B.,64,,3.0,1.0,1
+307,Australian Open,Grand Slam,Hard,1st Round,Tomic B.,Istomin D.,17,59.0,3.0,1.0,7
+308,Australian Open,Grand Slam,Hard,2nd Round,Tomic B.,Bolelli S.,17,64.0,3.0,1.0,7
+309,Australian Open,Grand Slam,Hard,3rd Round,Tomic B.,Millman J.,17,95.0,3.0,0.0,7
+310,French Open,Grand Slam,Clay,1st Round,Tomic B.,Baker B.,22,662.0,3.0,0.0,7
+311,Wimbledon,Grand Slam,Grass,1st Round,Tomic B.,Verdasco F.,19,53.0,3.0,2.0,7
+312,Wimbledon,Grand Slam,Grass,2nd Round,Tomic B.,Albot R.,19,110.0,3.0,1.0,7
+313,Wimbledon,Grand Slam,Grass,3rd Round,Tomic B.,Bautista Agut R.,19,15.0,3.0,0.0,7
+314,Australian Open,Grand Slam,Hard,1st Round,Ferrer D.,Gojowczyk P.,8,223.0,3.0,0.0,10
+315,Australian Open,Grand Slam,Hard,2nd Round,Ferrer D.,Hewitt L.,8,308.0,3.0,0.0,10
+316,Australian Open,Grand Slam,Hard,3rd Round,Ferrer D.,Johnson S.,8,32.0,3.0,0.0,10
+317,Australian Open,Grand Slam,Hard,4th Round,Ferrer D.,Isner J.,8,11.0,3.0,0.0,10
+318,French Open,Grand Slam,Clay,1st Round,Ferrer D.,Donskoy E.,11,75.0,3.0,0.0,10
+319,French Open,Grand Slam,Clay,2nd Round,Ferrer D.,Monaco J.,11,92.0,3.0,1.0,10
+320,French Open,Grand Slam,Clay,3rd Round,Ferrer D.,Lopez F.,11,23.0,3.0,0.0,10
+321,Wimbledon,Grand Slam,Grass,1st Round,Ferrer D.,Sela D.,14,63.0,3.0,0.0,10
+322,US Open,Grand Slam,Hard,1st Round,Ferrer D.,Dolgopolov O.,13,57.0,0.0,0.0,10
+323,US Open,Grand Slam,Hard,2nd Round,Ferrer D.,Fognini F.,13,38.0,3.0,2.0,10
+324,Australian Open,Grand Slam,Hard,1st Round,Stepanek R.,Ito T.,188,125.0,3.0,1.0,1
+325,Australian Open,Grand Slam,Hard,1st Round,Rosol L.,Daniel T.,51,99.0,3.0,2.0,2
+326,Australian Open,Grand Slam,Hard,2nd Round,Rosol L.,Sock J.,51,22.0,3.0,0.0,2
+327,Australian Open,Grand Slam,Hard,1st Round,Sock J.,Fritz T.,22,155.0,3.0,2.0,8
+328,French Open,Grand Slam,Clay,1st Round,Sock J.,Haase R.,25,86.0,3.0,2.0,8
+329,French Open,Grand Slam,Clay,2nd Round,Sock J.,Brown D.,25,116.0,3.0,0.0,8
+330,Wimbledon,Grand Slam,Grass,1st Round,Sock J.,Gulbis E.,26,61.0,3.0,0.0,8
+331,Wimbledon,Grand Slam,Grass,2nd Round,Sock J.,Haase R.,26,98.0,3.0,1.0,8
+332,US Open,Grand Slam,Hard,1st Round,Sock J.,Fritz T.,27,53.0,3.0,2.0,8
+333,US Open,Grand Slam,Hard,2nd Round,Sock J.,Zverev M.,27,127.0,3.0,0.0,8
+334,US Open,Grand Slam,Hard,3rd Round,Sock J.,Cilic M.,27,9.0,3.0,0.0,8
+335,Australian Open,Grand Slam,Hard,1st Round,Troicki V.,Munoz-De La Nava D.,26,71.0,3.0,2.0,7
+336,Australian Open,Grand Slam,Hard,2nd Round,Troicki V.,Smyczek T.,26,108.0,3.0,0.0,7
+337,French Open,Grand Slam,Clay,1st Round,Troicki V.,Dimitrov G.,24,36.0,3.0,2.0,7
+338,French Open,Grand Slam,Clay,2nd Round,Troicki V.,Lajovic D.,24,81.0,2.0,1.0,7
+339,French Open,Grand Slam,Clay,3rd Round,Troicki V.,Simon G.,24,18.0,3.0,0.0,7
+340,Wimbledon,Grand Slam,Grass,1st Round,Troicki V.,Lamasine T.,27,204.0,3.0,0.0,7
+341,US Open,Grand Slam,Hard,1st Round,Troicki V.,Albot R.,32,97.0,3.0,2.0,7
+342,Australian Open,Grand Slam,Hard,1st Round,Hewitt L.,Duckworth J.,308,129.0,3.0,0.0,1
+343,Australian Open,Grand Slam,Hard,1st Round,Wawrinka S.,Tursunov D.,4,,2.0,0.0,16
+344,Australian Open,Grand Slam,Hard,2nd Round,Wawrinka S.,Stepanek R.,4,188.0,3.0,0.0,16
+345,Australian Open,Grand Slam,Hard,3rd Round,Wawrinka S.,Rosol L.,4,51.0,3.0,0.0,16
+346,French Open,Grand Slam,Clay,1st Round,Wawrinka S.,Rosol L.,4,59.0,3.0,2.0,16
+347,French Open,Grand Slam,Clay,2nd Round,Wawrinka S.,Daniel T.,4,93.0,3.0,0.0,16
+348,French Open,Grand Slam,Clay,3rd Round,Wawrinka S.,Chardy J.,4,32.0,3.0,0.0,16
+349,French Open,Grand Slam,Clay,4th Round,Wawrinka S.,Troicki V.,4,24.0,3.0,1.0,16
+350,French Open,Grand Slam,Clay,Quarterfinals,Wawrinka S.,Ramos-Vinolas A.,4,55.0,3.0,0.0,16
+351,Wimbledon,Grand Slam,Grass,1st Round,Wawrinka S.,Fritz T.,5,65.0,3.0,1.0,16
+352,US Open,Grand Slam,Hard,1st Round,Wawrinka S.,Verdasco F.,3,46.0,3.0,0.0,16
+353,US Open,Grand Slam,Hard,2nd Round,Wawrinka S.,Giannessi A.,3,243.0,3.0,0.0,16
+354,US Open,Grand Slam,Hard,3rd Round,Wawrinka S.,Evans D.,3,64.0,3.0,2.0,16
+355,US Open,Grand Slam,Hard,4th Round,Wawrinka S.,Marchenko I.,3,63.0,3.0,1.0,16
+356,US Open,Grand Slam,Hard,Quarterfinals,Wawrinka S.,Del Potro J.M.,3,142.0,3.0,1.0,16
+357,US Open,Grand Slam,Hard,Semifinals,Wawrinka S.,Nishikori K.,3,7.0,3.0,1.0,16
+358,US Open,Grand Slam,Hard,The Final,Wawrinka S.,Djokovic N.,3,1.0,3.0,1.0,16
+359,French Open,Grand Slam,Clay,1st Round,Paire B.,Albot R.,21,137.0,3.0,2.0,3
+360,Wimbledon,Grand Slam,Grass,1st Round,Paire B.,Skugor F.,23,194.0,3.0,2.0,3
+361,US Open,Grand Slam,Hard,1st Round,Paire B.,Lajovic D.,34,59.0,3.0,2.0,3
+362,French Open,Grand Slam,Clay,1st Round,Sijsling I.,Ungur A.,123,203.0,3.0,0.0,1
+363,French Open,Grand Slam,Clay,1st Round,Gabashvili T.,Young D.,79,76.0,3.0,0.0,2
+364,French Open,Grand Slam,Clay,2nd Round,Gabashvili T.,Paire B.,79,21.0,3.0,1.0,2
+365,French Open,Grand Slam,Clay,1st Round,Pavlasek A.,Carballes Baena R.,132,114.0,3.0,2.0,1
+366,French Open,Grand Slam,Clay,1st Round,Daniel T.,Klizan M.,93,45.0,2.0,2.0,1
+367,French Open,Grand Slam,Clay,1st Round,Mannarino A.,Kukushkin M.,58,83.0,3.0,1.0,2
+368,Wimbledon,Grand Slam,Grass,1st Round,Mannarino A.,Edmund K.,55,68.0,3.0,0.0,2
+369,French Open,Grand Slam,Clay,1st Round,Dodig I.,Youzhny M.,77,78.0,3.0,2.0,1
+370,French Open,Grand Slam,Clay,1st Round,Brown D.,Sela D.,116,62.0,3.0,2.0,2
+371,Wimbledon,Grand Slam,Grass,1st Round,Brown D.,Lajovic D.,85,82.0,3.0,2.0,2
+372,French Open,Grand Slam,Clay,1st Round,Karlovic I.,Montanes A.,28,98.0,3.0,0.0,6
+373,French Open,Grand Slam,Clay,2nd Round,Karlovic I.,Thompson J.,28,94.0,3.0,2.0,6
+374,Wimbledon,Grand Slam,Grass,1st Round,Karlovic I.,Coric B.,32,50.0,3.0,0.0,6
+375,US Open,Grand Slam,Hard,1st Round,Karlovic I.,Lu Y.H.,23,73.0,3.0,2.0,6
+376,US Open,Grand Slam,Hard,2nd Round,Karlovic I.,Young D.,23,56.0,3.0,0.0,6
+377,US Open,Grand Slam,Hard,3rd Round,Karlovic I.,Donaldson J.,23,122.0,3.0,0.0,6
+378,French Open,Grand Slam,Clay,1st Round,Thompson J.,Djere L.,94,215.0,3.0,0.0,1
+379,French Open,Grand Slam,Clay,1st Round,Bourgue M.,Samper-Montana J.,164,216.0,3.0,0.0,1
+380,French Open,Grand Slam,Clay,1st Round,Edmund K.,Basilashvili N.,82,104.0,3.0,1.0,4
+381,US Open,Grand Slam,Hard,1st Round,Edmund K.,Gasquet R.,84,15.0,3.0,0.0,4
+382,US Open,Grand Slam,Hard,2nd Round,Edmund K.,Escobedo E.,84,201.0,3.0,0.0,4
+383,US Open,Grand Slam,Hard,3rd Round,Edmund K.,Isner J.,84,21.0,3.0,1.0,4
+384,French Open,Grand Slam,Clay,1st Round,Martin A.,Munoz De La Nava D.,133,105.0,3.0,1.0,2
+385,French Open,Grand Slam,Clay,2nd Round,Martin A.,Pouille L.,133,31.0,3.0,0.0,2
+386,French Open,Grand Slam,Clay,1st Round,Fratangelo B.,Querrey S.,103,37.0,3.0,1.0,1
+387,French Open,Grand Slam,Clay,1st Round,Gasquet R.,Bellucci T.,12,57.0,3.0,0.0,7
+388,French Open,Grand Slam,Clay,2nd Round,Gasquet R.,Fratangelo B.,12,103.0,3.0,0.0,7
+389,French Open,Grand Slam,Clay,3rd Round,Gasquet R.,Kyrgios N.,12,19.0,3.0,0.0,7
+390,French Open,Grand Slam,Clay,4th Round,Gasquet R.,Nishikori K.,12,6.0,3.0,1.0,7
+391,Wimbledon,Grand Slam,Grass,1st Round,Gasquet R.,Bedene A.,10,56.0,3.0,0.0,7
+392,Wimbledon,Grand Slam,Grass,2nd Round,Gasquet R.,Granollers M.,10,340.0,3.0,1.0,7
+393,Wimbledon,Grand Slam,Grass,3rd Round,Gasquet R.,Ramos-Vinolas A.,10,36.0,3.0,1.0,7
+394,French Open,Grand Slam,Clay,1st Round,Coric B.,Fritz T.,47,67.0,3.0,0.0,2
+395,French Open,Grand Slam,Clay,2nd Round,Coric B.,Tomic B.,47,22.0,3.0,1.0,2
+396,French Open,Grand Slam,Clay,1st Round,Jaziri M.,Mayer F.,72,236.0,3.0,1.0,1
+397,French Open,Grand Slam,Clay,1st Round,Bedene A.,Melzer G.,66,129.0,3.0,1.0,2
+398,French Open,Grand Slam,Clay,2nd Round,Bedene A.,Carreno Busta P.,66,43.0,3.0,2.0,2
+399,French Open,Grand Slam,Clay,1st Round,Estrella Burgos V.,Marchenko I.,87,71.0,3.0,0.0,1
+400,French Open,Grand Slam,Clay,1st Round,Darcis S.,Ilhan M.,161,198.0,3.0,0.0,2
+401,US Open,Grand Slam,Hard,1st Round,Darcis S.,Thompson J.,106,91.0,3.0,2.0,2
+402,French Open,Grand Slam,Clay,1st Round,Nadal R.,Groth S.,5,100.0,3.0,0.0,5
+403,French Open,Grand Slam,Clay,2nd Round,Nadal R.,Bagnis F.,5,99.0,3.0,0.0,5
+404,US Open,Grand Slam,Hard,1st Round,Nadal R.,Istomin D.,5,107.0,3.0,0.0,5
+405,US Open,Grand Slam,Hard,2nd Round,Nadal R.,Seppi A.,5,87.0,3.0,0.0,5
+406,US Open,Grand Slam,Hard,3rd Round,Nadal R.,Kuznetsov An.,5,47.0,3.0,0.0,5
+407,French Open,Grand Slam,Clay,1st Round,Pouille L.,Benneteau J.,31,548.0,3.0,1.0,9
+408,Wimbledon,Grand Slam,Grass,1st Round,Pouille L.,Copil M.,30,174.0,3.0,1.0,9
+409,Wimbledon,Grand Slam,Grass,2nd Round,Pouille L.,Young D.,30,69.0,3.0,0.0,9
+410,Wimbledon,Grand Slam,Grass,3rd Round,Pouille L.,Del Potro J.M.,30,165.0,3.0,1.0,9
+411,Wimbledon,Grand Slam,Grass,4th Round,Pouille L.,Tomic B.,30,19.0,3.0,2.0,9
+412,US Open,Grand Slam,Hard,1st Round,Pouille L.,Kukushkin M.,25,67.0,3.0,1.0,9
+413,US Open,Grand Slam,Hard,2nd Round,Pouille L.,Chiudinelli M.,25,144.0,3.0,2.0,9
+414,US Open,Grand Slam,Hard,3rd Round,Pouille L.,Bautista Agut R.,25,17.0,3.0,2.0,9
+415,US Open,Grand Slam,Hard,4th Round,Pouille L.,Nadal R.,25,5.0,3.0,2.0,9
+416,French Open,Grand Slam,Clay,1st Round,Bagnis F.,De Schepper K.,99,143.0,3.0,0.0,1
+417,French Open,Grand Slam,Clay,1st Round,Carreno Busta P.,Delbonis F.,43,35.0,3.0,1.0,3
+418,US Open,Grand Slam,Hard,1st Round,Carreno Busta P.,Ivashka I.,39,182.0,3.0,0.0,3
+419,US Open,Grand Slam,Hard,2nd Round,Carreno Busta P.,Tipsarevic J.,39,250.0,3.0,2.0,3
+420,French Open,Grand Slam,Clay,1st Round,Baghdatis M.,Muller G.,39,42.0,3.0,0.0,4
+421,US Open,Grand Slam,Hard,1st Round,Baghdatis M.,Bagnis F.,44,90.0,2.0,0.0,4
+422,US Open,Grand Slam,Hard,2nd Round,Baghdatis M.,Paire B.,44,34.0,3.0,1.0,4
+423,US Open,Grand Slam,Hard,3rd Round,Baghdatis M.,Harrison R.,44,120.0,3.0,1.0,4
+424,French Open,Grand Slam,Clay,1st Round,Bautista Agut R.,Tursunov D.,16,480.0,3.0,0.0,7
+425,French Open,Grand Slam,Clay,2nd Round,Bautista Agut R.,Mathieu P.H.,16,65.0,3.0,0.0,7
+426,French Open,Grand Slam,Clay,3rd Round,Bautista Agut R.,Coric B.,16,47.0,3.0,0.0,7
+427,Wimbledon,Grand Slam,Grass,1st Round,Bautista Agut R.,Thompson J.,15,88.0,3.0,0.0,7
+428,Wimbledon,Grand Slam,Grass,2nd Round,Bautista Agut R.,Kukushkin M.,15,57.0,,,7
+429,US Open,Grand Slam,Hard,1st Round,Bautista Agut R.,Garcia-Lopez G.,17,50.0,3.0,1.0,7
+430,US Open,Grand Slam,Hard,2nd Round,Bautista Agut R.,Delbonis F.,17,43.0,3.0,1.0,7
+431,French Open,Grand Slam,Clay,1st Round,Vesely J.,Ram R.,60,70.0,3.0,1.0,5
+432,Wimbledon,Grand Slam,Grass,1st Round,Vesely J.,Sijsling I.,64,118.0,3.0,0.0,5
+433,Wimbledon,Grand Slam,Grass,2nd Round,Vesely J.,Thiem D.,64,8.0,3.0,0.0,5
+434,Wimbledon,Grand Slam,Grass,3rd Round,Vesely J.,Sousa J.,64,31.0,3.0,0.0,5
+435,US Open,Grand Slam,Hard,1st Round,Vesely J.,Myneni S.,49,143.0,3.0,2.0,5
+436,French Open,Grand Slam,Clay,1st Round,Mathieu P.H.,Giraldo S.,65,122.0,3.0,2.0,2
+437,US Open,Grand Slam,Hard,1st Round,Mathieu P.H.,Harrison C.,70,694.0,3.0,0.0,2
+438,French Open,Grand Slam,Clay,1st Round,Monaco J.,Istomin D.,92,64.0,3.0,1.0,2
+439,Wimbledon,Grand Slam,Grass,1st Round,Monaco J.,Daniel T.,97,114.0,3.0,1.0,2
+440,French Open,Grand Slam,Clay,1st Round,Berlocq C.,Lorenzi P.,126,54.0,3.0,0.0,1
+441,French Open,Grand Slam,Clay,1st Round,Gulbis E.,Seppi A.,80,38.0,3.0,0.0,3
+442,French Open,Grand Slam,Clay,2nd Round,Gulbis E.,Sousa J.,80,29.0,3.0,0.0,3
+443,French Open,Grand Slam,Clay,3rd Round,Gulbis E.,Tsonga J.W.,80,7.0,0.0,0.0,3
+444,French Open,Grand Slam,Clay,1st Round,Zverev A.,Herbert P.H.,41,84.0,3.0,1.0,5
+445,French Open,Grand Slam,Clay,2nd Round,Zverev A.,Robert S.,41,90.0,3.0,1.0,5
+446,Wimbledon,Grand Slam,Grass,1st Round,Zverev A.,Mathieu P.H.,28,59.0,3.0,0.0,5
+447,Wimbledon,Grand Slam,Grass,2nd Round,Zverev A.,Youzhny M.,28,70.0,3.0,2.0,5
+448,US Open,Grand Slam,Hard,1st Round,Zverev A.,Brands D.,28,153.0,3.0,1.0,5
+449,Wimbledon,Grand Slam,Grass,1st Round,Stakhovsky S.,Nishioka Y.,94,122.0,3.0,0.0,2
+450,US Open,Grand Slam,Hard,1st Round,Stakhovsky S.,Elias G.,92,60.0,3.0,2.0,2
+451,Wimbledon,Grand Slam,Grass,1st Round,Lacko L.,Lorenzi P.,123,49.0,3.0,1.0,2
+452,Wimbledon,Grand Slam,Grass,2nd Round,Lacko L.,Karlovic I.,123,32.0,3.0,1.0,2
+453,Wimbledon,Grand Slam,Grass,1st Round,Istomin D.,Anderson K.,116,25.0,3.0,2.0,2
+454,Wimbledon,Grand Slam,Grass,2nd Round,Istomin D.,Almagro N.,116,47.0,3.0,0.0,2
+455,Wimbledon,Grand Slam,Grass,1st Round,Querrey S.,Rosol L.,41,73.0,3.0,2.0,4
+456,Wimbledon,Grand Slam,Grass,2nd Round,Querrey S.,Bellucci T.,41,62.0,3.0,0.0,4
+457,Wimbledon,Grand Slam,Grass,3rd Round,Querrey S.,Djokovic N.,41,1.0,3.0,1.0,4
+458,Wimbledon,Grand Slam,Grass,4th Round,Querrey S.,Mahut N.,41,51.0,3.0,0.0,4
+459,Wimbledon,Grand Slam,Grass,1st Round,Benneteau J.,Marchenko I.,547,84.0,3.0,0.0,1
+460,Wimbledon,Grand Slam,Grass,1st Round,Roger-Vasselin E.,Gabashvili T.,186,103.0,3.0,1.0,1
+461,Wimbledon,Grand Slam,Grass,1st Round,Willis M.,Berankis R.,772,54.0,3.0,0.0,1
+462,Wimbledon,Grand Slam,Grass,1st Round,Haase R.,Schwartzman D.,98,71.0,3.0,2.0,1
+463,Wimbledon,Grand Slam,Grass,1st Round,Evans D.,Struff J.L.,91,86.0,3.0,1.0,4
+464,Wimbledon,Grand Slam,Grass,2nd Round,Evans D.,Dolgopolov O.,91,33.0,3.0,0.0,4
+465,US Open,Grand Slam,Hard,1st Round,Evans D.,Ram R.,64,104.0,3.0,1.0,4
+466,US Open,Grand Slam,Hard,2nd Round,Evans D.,Zverev A.,64,28.0,3.0,1.0,4
+467,Wimbledon,Grand Slam,Grass,1st Round,Novikov D.,Saville L.,145,221.0,3.0,1.0,1
+468,Wimbledon,Grand Slam,Grass,1st Round,Lu Y.H.,Kudryavtsev A.,76,179.0,3.0,0.0,1
+469,Wimbledon,Grand Slam,Grass,1st Round,Becker B.,Bagnis F.,102,96.0,3.0,0.0,1
+470,Wimbledon,Grand Slam,Grass,1st Round,Kukushkin M.,Klizan M.,57,48.0,3.0,0.0,1
+471,Wimbledon,Grand Slam,Grass,1st Round,Del Potro J.M.,Robert S.,165,79.0,3.0,0.0,6
+472,Wimbledon,Grand Slam,Grass,2nd Round,Del Potro J.M.,Wawrinka S.,165,5.0,3.0,1.0,6
+473,US Open,Grand Slam,Hard,1st Round,Del Potro J.M.,Schwartzman D.,142,69.0,3.0,0.0,6
+474,US Open,Grand Slam,Hard,2nd Round,Del Potro J.M.,Johnson S.,142,22.0,3.0,0.0,6
+475,US Open,Grand Slam,Hard,3rd Round,Del Potro J.M.,Ferrer D.,142,13.0,3.0,0.0,6
+476,US Open,Grand Slam,Hard,4th Round,Del Potro J.M.,Thiem D.,142,10.0,1.0,0.0,6
+477,Wimbledon,Grand Slam,Grass,1st Round,Albot R.,Elias G.,110,92.0,3.0,1.0,1
+478,Wimbledon,Grand Slam,Grass,1st Round,Barton M.,Olivetti A.,248,793.0,3.0,2.0,1
+479,Wimbledon,Grand Slam,Grass,1st Round,Fognini F.,Delbonis F.,35,38.0,3.0,2.0,2
+480,US Open,Grand Slam,Hard,1st Round,Fognini F.,Gabashvili T.,38,105.0,3.0,2.0,2
+481,Wimbledon,Grand Slam,Grass,1st Round,Young D.,Mayer L.,69,90.0,3.0,1.0,2
+482,US Open,Grand Slam,Hard,1st Round,Young D.,Struff J.L.,56,78.0,3.0,1.0,2
+483,Wimbledon,Grand Slam,Grass,1st Round,Youzhny M.,Zeballos H.,70,83.0,3.0,1.0,3
+484,US Open,Grand Slam,Hard,1st Round,Youzhny M.,Klizan M.,61,29.0,3.0,0.0,3
+485,US Open,Grand Slam,Hard,2nd Round,Youzhny M.,Pella G.,61,51.0,3.0,0.0,3
+486,US Open,Grand Slam,Hard,1st Round,Escobedo E.,Lacko L.,201,99.0,2.0,2.0,1
+487,US Open,Grand Slam,Hard,1st Round,Satral J.,Mcdonald M.,226,406.0,3.0,2.0,1
+488,US Open,Grand Slam,Hard,1st Round,Chiudinelli M.,Clezar G.,144,203.0,3.0,1.0,1
+489,US Open,Grand Slam,Hard,1st Round,Pospisil V.,Kovalik J.,123,126.0,3.0,0.0,1
+490,US Open,Grand Slam,Hard,1st Round,Anderson K.,Nishioka Y.,35,85.0,3.0,0.0,2
+491,US Open,Grand Slam,Hard,2nd Round,Anderson K.,Pospisil V.,35,123.0,3.0,0.0,2
+492,US Open,Grand Slam,Hard,1st Round,Zverev M.,Herbert P.H.,127,114.0,3.0,1.0,1
+493,US Open,Grand Slam,Hard,1st Round,Harrison R.,Mannarino A.,120,54.0,3.0,0.0,2
+494,US Open,Grand Slam,Hard,2nd Round,Harrison R.,Raonic M.,120,6.0,3.0,1.0,2
+495,US Open,Grand Slam,Hard,1st Round,Duckworth J.,Haase R.,195,62.0,3.0,2.0,1
+496,US Open,Grand Slam,Hard,1st Round,Khachanov K.,Fabbiano T.,95,111.0,3.0,1.0,1
+497,US Open,Grand Slam,Hard,1st Round,Tipsarevic J.,Querrey S.,250,30.0,3.0,1.0,1
+498,US Open,Grand Slam,Hard,1st Round,Giannessi A.,Kudla D.,243,128.0,3.0,2.0,1
+499,US Open,Grand Slam,Hard,1st Round,Donaldson J.,Goffin D.,122,14.0,3.0,1.0,2
+500,US Open,Grand Slam,Hard,2nd Round,Donaldson J.,Troicki V.,122,32.0,3.0,0.0,2
+501,US Open,Grand Slam,Hard,1st Round,Zeballos H.,Mayer F.,71,58.0,3.0,0.0,1
+502,US Open,Grand Slam,Hard,1st Round,Lorenzi P.,Berlocq C.,40,76.0,3.0,0.0,2
+503,US Open,Grand Slam,Hard,2nd Round,Lorenzi P.,Simon G.,40,31.0,3.0,2.0,2
+504,US Open,Grand Slam,Hard,1st Round,Berankis R.,Jaziri M.,89,68.0,3.0,1.0,1
+505,US Open,Grand Slam,Hard,1st Round,Marchenko I.,Dodig I.,63,74.0,3.0,1.0,3
+506,US Open,Grand Slam,Hard,2nd Round,Marchenko I.,Dzumhur D.,63,72.0,3.0,0.0,3
+507,US Open,Grand Slam,Hard,3rd Round,Marchenko I.,Kyrgios N.,63,16.0,2.0,1.0,3
