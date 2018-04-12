@@ -5,16 +5,16 @@ body {
 
 h1{
 	font-family:helvetica,arial,sans-serif;
-	font-size:22;
+	font-size:30;
 	font-style:bold;
-	color:#00A6AA;
+	color:Red;
 }
 
 h2{
 	font-family:helvetica,arial,sans-serif;
-	font-size:16;
+	font-size:30;
 	font-style:bold;
-	color:#00A6AA;
+	color:red;
 }
 
 h3{
@@ -47,7 +47,7 @@ p{
 #header{
 	text-align:center;
 	width: 1366px;
-	min-height:100px;
+	min-height:70px;
 	height:auto;
 	padding-top:20px;
 	margin:0 auto;
